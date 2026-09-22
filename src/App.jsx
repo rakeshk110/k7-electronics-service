@@ -18,16 +18,16 @@ const PHONE_E164 = '919345494500'
 const PHONE_DISPLAY = '+91 93454 94500'
 const TEL_HREF = `tel:+${PHONE_E164}`
 const WHATSAPP_TEXT =
-  'Hi, I need doorstep repair service in Pondicherry'
+  'Hi, I need doorstep repair service in Melmaruvathur'
 const WHATSAPP_HREF = `https://wa.me/${PHONE_E164}?text=${encodeURIComponent(WHATSAPP_TEXT)}`
 
 const SHOP_NAME = 'k7 ELECTRONICS SERVICES & SALES'
 const SHOP_ADDRESS_LINES = [
-  'No. 42, Mission Street',
-  'Near Gandhi Statue, White Town',
-  'Puducherry – 605001',
+  'No. 54, Melaputhur',
+  'Convent Road, Cantonment',
+  'Trichy – 620 001',
 ]
-const SERVICE_RADIUS = 'Pondicherry & nearby 25 km radius'
+const SERVICE_RADIUS = 'Melaputhur & nearby 25 km radius'
 const WORKING_HOURS = '8:00 AM – 8:00 PM (All 7 Days)'
 const INSPECTION_FEE = 500
 const MAPS_DIRECTIONS_HREF =
