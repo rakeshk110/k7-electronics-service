@@ -18,7 +18,7 @@ const PHONE_E164 = '919345494500'
 const PHONE_DISPLAY = '+91 93454 94500'
 const TEL_HREF = `tel:+${PHONE_E164}`
 const WHATSAPP_TEXT =
-  'Hi, I need doorstep repair service in Melmaruvathur'
+  'Hi, I need doorstep repair service in Melaputhur'
 const WHATSAPP_HREF = `https://wa.me/${PHONE_E164}?text=${encodeURIComponent(WHATSAPP_TEXT)}`
 
 const SHOP_NAME = 'k7 ELECTRONICS SERVICES & SALES'
@@ -111,7 +111,7 @@ const REASONS = [
   {
     icon: ShieldCheck,
     title: 'Experienced Local Technician',
-    body: 'Pondicherry-based mechanic who knows common local appliance faults.',
+    body: 'Melaputhur-based mechanic who knows common local appliance faults.',
   },
   {
     icon: MapPin,
@@ -138,12 +138,12 @@ const REVIEWS = [
   },
   {
     name: 'Karthik M.',
-    area: 'Villianur',
+    area: 'Melaputhur',
     text: 'Washing machine leak repaired at home. Technician arrived within two hours.',
   },
   {
     name: 'Fatima R.',
-    area: 'White Town',
+    area: 'Melaputhur',
     text: 'Fridge not cooling — gas filled and tested on the spot. Very transparent quote.',
   },
 ]
@@ -198,7 +198,7 @@ export default function App() {
                 k7 ELECTRONICS
               </p>
               <p className="truncate text-xs font-medium text-slate-500">
-                Pondicherry Doorstep Service
+                Melaputhur Doorstep Service
               </p>
             </div>
           </div>
@@ -220,7 +220,7 @@ export default function App() {
               {SERVICE_RADIUS}
             </p>
             <h1 className="max-w-3xl text-[1.7rem] font-extrabold leading-tight tracking-tight sm:text-4xl sm:leading-tight">
-              Fast Doorstep LED TV, Washing Machine & Fridge Repair in Pondicherry
+              Fast Doorstep LED TV, Washing Machine & Fridge Repair in Melaputhur
             </h1>
             <p className="mt-4 max-w-2xl text-base leading-relaxed text-slate-300 sm:text-lg">
               Expert technician at your doorstep within 2 hours. Honest pricing
@@ -250,7 +250,7 @@ export default function App() {
                 <StarRow />
                 <span className="font-semibold text-white">5.0</span>
               </div>
-              <p>Google review callouts from Pondicherry homeowners</p>
+              <p>Google review callouts from Melaputhur homeowners</p>
             </div>
           </div>
         </section>
@@ -433,7 +433,7 @@ export default function App() {
           </div>
         </div>
         <p className="border-t border-slate-100 px-4 py-4 text-center text-xs text-slate-400">
-          © {new Date().getFullYear()} {SHOP_NAME}. Doorstep appliance repair in Pondicherry.
+          © {new Date().getFullYear()} {SHOP_NAME}. Doorstep appliance repair in Melaputhur.
         </p>
       </footer>
 
