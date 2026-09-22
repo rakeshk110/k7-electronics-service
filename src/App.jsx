@@ -418,7 +418,7 @@ export default function App() {
               <MapPin className="h-8 w-8 text-blue-700" aria-hidden="true" />
               <p className="mt-2 text-sm font-semibold text-slate-800">Map placeholder</p>
               <p className="mt-1 text-xs text-slate-500">
-                White Town / Mission Street, Puducherry
+                No 54 / Convent Road, Melaputhur
               </p>
               <a
                 href={MAPS_DIRECTIONS_HREF}
