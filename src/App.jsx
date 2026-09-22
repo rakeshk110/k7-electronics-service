@@ -31,7 +31,7 @@ const SERVICE_RADIUS = 'Melaputhur & nearby 25 km radius'
 const WORKING_HOURS = '8:00 AM – 8:00 PM (All 7 Days)'
 const INSPECTION_FEE = 500
 const MAPS_DIRECTIONS_HREF =
-  'https://www.google.com/maps/search/?api=1&query=Cantonment+Tiruchirappalli+Tamil+Nadu+620001'
+  'https://www.google.com/maps/search/?api=1&query=No+54+Melapudur+Cantonment+Tiruchirappalli+Tamil+Nadu+620001'
 
 const BRANDS = [
   'Samsung',
